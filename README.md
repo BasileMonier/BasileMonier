@@ -47,5 +47,7 @@
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Basile8mnr)
 
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:2ac3de&height=60&section=footer">
 </div>
 
