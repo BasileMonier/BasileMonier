@@ -3,18 +3,18 @@
 
   Basile Monier 📚 </h1>
 
-## À propos de moi 🧍‍♂️
-- 🎓 **Étudiants** en Bachelor 1 au sein de ***l'École IT***.
-- 🌎 **Localisation** : Valenciennes.
-- 🍿 **Passion** : informatique, cinéma, football...
-## Compétences acquises au cours de l'année 🎮
+## À propos de moi 
+- **Étudiants** en Bachelor 1 au sein de ***l'École IT***.
+- **Localisation** : Valenciennes.
+- **Passion** : informatique, cinéma, football...
+## Compétences acquises au cours de l'année
 - [x] Architecture des ordinateurs
 - [x] Python - Algorithmes
 - [x] Git - Fondamentaux
 - [ ] Web - Html & CSS
 - [ ] ... Soon 🔥👊☄️
 
-## Mes stats GIT 📊
+## Mes stats GIT
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=BasileMonier&theme=tokyonight&count_private=true)](https://git.io/streak-stats)
@@ -25,7 +25,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 </div>
 
-## Me contacter 📩
+## Mes contributions
+<div align="center">
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BasileMonier&theme=react-dark" width="700" />
+
+</div>
+
+## Me contacter
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basile-monier-27640a2a9/)
@@ -33,3 +40,4 @@
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basilemonier@gmail.com)
 
 </div>
+
