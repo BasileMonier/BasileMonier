@@ -17,12 +17,12 @@
 ## Mes stats GIT 📊
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TonPseudo&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=BasileMonier&theme=tokyonight&count_private=true)](https://git.io/streak-stats)
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=vscode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 </div>
 
-## My contribution 🎯
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=BasileMonier&theme=tokyo-night)
+## Mes projets 
