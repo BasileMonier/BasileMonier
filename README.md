@@ -7,7 +7,7 @@
 - **Étudiants** en Bachelor 1 au sein de ***l'École IT***.
 - **Localisation** : Valenciennes.
 - **Passion** : informatique, cinéma, football...
-## Compétences acquises au cours de l'année
+## Compétences
 - [x] Architecture des ordinateurs
 - [x] Python - Algorithmes
 - [x] Git - Fondamentaux
