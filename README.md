@@ -6,7 +6,7 @@
 ## À propos de moi 
 - **Étudiants** en Bachelor 1 au sein de ***l'École IT***.
 - **Localisation** : Valenciennes.
-- **Passion** : informatique, cinéma, football...
+- **Passion** : informatique, cinéma, lecture, sport...
 ## Mes compétences
 ### Langages
 
