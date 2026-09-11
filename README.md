@@ -19,12 +19,6 @@ Passionné d'informatique, de cinéma, de lecture mais aussi de football (come o
 <img src="https://skillicons.dev/icons?i=html,css,java,php,python,mysql&theme=dark" />
 </div>
 
-**Intelligence artificielle**
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=anthropic,openai,gemini&theme=dark" />
-</div>
-
 **Outils**
 
 <div align="center">
