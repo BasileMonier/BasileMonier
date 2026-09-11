@@ -37,9 +37,6 @@ Passionné d'informatique, de cinéma, de lecture mais aussi de football (come o
 
 <img src="https://streak-stats.demolab.com?user=BasileMonier&theme=dark&hide_border=true&background=0D1117&ring=1F5C99&fire=1F5C99&currStreakLabel=1F5C99" />
 
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BasileMonier&theme=github-compact&hide_border=true&bg_color=0D1117&color=8B95A1&line=1F5C99&point=ffffff" width="700" />
 
 </div>
 
