@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=18&duration=3200&pause=1200&color=8B95A1&background=00000000&center=true&vCenter=true&width=600&height=35&lines=D%C3%A9veloppeur+en+devenir;%C3%89tudiant+%C3%A0+l'ESGI+%C2%B7+Lille;%C3%80+la+recherche+d'une+alternance" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=18&duration=3200&pause=1200&color=8B95A1&background=00000000&center=true&vCenter=true&width=600&height=35&lines=D%C3%A9veloppeur+en+devenir;%C3%80+la+recherche+d'une+alternance" />
 </p>
 
 ## À propos de moi
