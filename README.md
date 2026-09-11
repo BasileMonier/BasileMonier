@@ -1,91 +1,63 @@
 <h1 align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1F5C99&height=120&section=header">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F5C99&height=150&section=header&text=Basile%20Monier&fontSize=42&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%"/>
+</h1>
 
-  Basile Monier 📚 </h1>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=18&duration=3200&pause=1200&color=8B95A1&background=00000000&center=true&vCenter=true&width=600&height=35&lines=D%C3%A9veloppeur+en+devenir;%C3%89tudiant+%C3%A0+l'ESGI+%C2%B7+Lille;%C3%80+la+recherche+d'une+alternance" />
+</p>
 
-## À propos de moi 
-- **Étudiants** en Bachelor 1 au sein de ***l'École IT***.
-- **Localisation** : Valenciennes.
-- **Passion** : informatique, cinéma, lecture, sport...
-## Mes compétences
-### Langages
+## À propos de moi
+
+Étudiant en informatique, après un premier parcours dans le sport de haut niveau (STAPS, puis une expérience d'analyse vidéo au LOSC).
+Passionné d'informatique, de cinéma, de lecture mais aussi de football (come on Chelsea ! 💙 ).
+
+## Compétences
+
+**Langages**
 
 <div align="center">
-  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
+<img src="https://skillicons.dev/icons?i=html,css,java,php,python,mysql&theme=dark" />
 </div>
 
-### Intelligence Artificielle
+**Intelligence artificielle**
 
 <div align="center">
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Bolt](https://img.shields.io/badge/Bolt-000000?style=for-the-badge&logo=bolt&logoColor=white)
-![GML](https://img.shields.io/badge/GML-000000?style=for-the-badge&logo=gml&logoColor=white)
-
+<img src="https://skillicons.dev/icons?i=anthropic,openai,gemini&theme=dark" />
 </div>
 
-### Outils & Frameworks
+**Outils**
 
 <div align="center">
-
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![UML](https://img.shields.io/badge/UML-FABD14?style=for-the-badge&logo=diagrams.net&logoColor=black)
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </div>
 
-### Environnements
+**Environnements**
 
 <div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
+<img src="https://skillicons.dev/icons?i=linux,windows,apple&theme=dark" />
 </div>
 
-## Mes stats GIT
+## Mes stats GitHub
+
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=BasileMonier&theme=tokyonight&count_private=true)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=BasileMonier&theme=dark&hide_border=true&background=0D1117&ring=1F5C99&fire=1F5C99&currStreakLabel=1F5C99" />
 
+<br>
 
-</div>
-
-## Mes contributions
-<div align="center">
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BasileMonier&theme=react-dark" width="700" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BasileMonier&theme=github-compact&hide_border=true&bg_color=0D1117&color=8B95A1&line=1F5C99&point=ffffff" width="700" />
 
 </div>
 
 ## Me contacter
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basile-monier-27640a2a9/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/basilou08)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basilemonier@gmail.com)
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Basile8mnr)
-
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:2ac3de&height=60&section=footer">
+
+<a href="https://www.linkedin.com/in/basile-monier-27640a2a9/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=1F5C99" /></a>
+<a href="mailto:basilemonier@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=flat-square&logo=gmail&logoColor=1F5C99" /></a>
+<a href="https://discord.com/users/basilou08"><img src="https://img.shields.io/badge/Discord-0D1117?style=flat-square&logo=discord&logoColor=1F5C99" /></a>
+<a href="https://www.codewars.com/users/Basile8mnr"><img src="https://img.shields.io/badge/Codewars-0D1117?style=flat-square&logo=codewars&logoColor=1F5C99" /></a>
+
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F5C99,100:0D1117&height=100&section=footer" width="100%"/>
