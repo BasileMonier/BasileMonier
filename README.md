@@ -9,7 +9,7 @@
 ## À propos de moi
 
 Étudiant en informatique, après un premier parcours dans le sport de haut niveau (STAPS, puis une expérience d'analyse vidéo au LOSC).
-Passionné d'informatique, de cinéma, de lecture mais aussi de football (come on Chelsea ! 💙 ).
+Passionné d'informatique, de cinéma, de lecture mais aussi de football.
 
 ## Compétences
 
