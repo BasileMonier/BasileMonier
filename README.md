@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=18&duration=3200&pause=1200&color=8B95A1&background=00000000&center=true&vCenter=true&width=600&height=35&lines=D%C3%A9veloppeur+en+devenir;%C3%80+la+recherche+d'une+alternance" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=18&duration=3200&pause=1200&color=8B95A1&background=00000000&center=true&vCenter=true&width=600&height=35&lines=D%C3%A9veloppeur+en+devenir;Apprentissage+de+Node.js+et+des+API+REST;%C3%80+la+recherche+d'une+alternance" />
 </p>
 
 ## À propos de moi
@@ -11,18 +11,22 @@
 Étudiant en informatique, après un premier parcours dans le sport de haut niveau (STAPS, puis une expérience d'analyse vidéo au LOSC).
 Passionné d'informatique, de cinéma, de lecture mais aussi de football.
 
+Je construis actuellement mes premières API REST avec Node.js.
+
 ## Compétences
 
-**Langages**
+**Langages et technologies**
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,java,php,python,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,php,python,nodejs,express,sequelize,mysql&theme=dark" />
 </div>
+
 
 **Outils**
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" />
+<br/>
 </div>
 
 **Environnements**
@@ -30,6 +34,7 @@ Passionné d'informatique, de cinéma, de lecture mais aussi de football.
 <div align="center">
 <img src="https://skillicons.dev/icons?i=linux,windows,apple&theme=dark" />
 </div>
+
 
 ## Mes stats GitHub
 
